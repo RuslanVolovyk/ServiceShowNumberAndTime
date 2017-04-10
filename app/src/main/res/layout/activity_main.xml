@@ -11,16 +11,5 @@
         android:onClick="onClickStart"
         android:text="start">
     </Button>
-    <Button
-        android:id="@+id/btnStop"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:onClick="onClickStop"
-        android:text="stop">
-    </Button>
-    <ProgressBar
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:indeterminate="true">
-    </ProgressBar>
+
 </LinearLayout>
